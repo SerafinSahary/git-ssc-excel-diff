@@ -1,0 +1,2 @@
+[diff "excel"]
+    command = c:/tools/xlcomp/xlcomp.cmd 
